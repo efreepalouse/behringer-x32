@@ -1,0 +1,81 @@
+#4.0#
+show "MyShow" 0 0 0 0 0 0 0 0 0 0 "4.00"
+scene/000 "Initial" "" %000000000 1
+scene/001 "Sunday" "" %000000000 1
+scene/002 "Sundaykids" "" %000000000 1
+scene/003 "ASMrecital" "" %000000000 1
+scene/004 "Seniors" "" %000000000 1
+scene/005 "College Min" "" %000000000 1
+scene/006 "Xmas2023" "" %000000000 1
+scene/007 "vbs2023" "" %000000000 1
+scene/008 "Cong Meeting" "" %000000000 1
+scene/009 "WR 2020" "" %000000000 1
+scene/010 "2-28-16" "" %000000000 1
+scene/011 "April 3rd" "" %000000000 1
+scene/012 "7-10-16-Ben" "" %000000000 1
+scene/013 "Wedding" "" %000000000 1
+scene/014 "SING" "" %000000000 1
+scene/015 "Ben Lead" "" %000000000 1
+scene/016 "Peterson" "" %000000000 1
+scene/017 "RH" "" %000000000 1
+scene/018 "Ceilidg" "" %000000000 1
+scene/019 "12-24-16" "" %000000000 1
+scene/020 "SYATP" "" %000000000 1
+scene/021 "Yarn" "" %000000000 1
+scene/022 "Friday Worship" "" %000000000 1
+scene/023 "12-25-16" "" %000000000 1
+scene/024 "Easter 2019" "" %000000000 1
+scene/025 "Sunday 04-02-17" "" %000000000 1
+scene/026 "GF2019" "" %000000000 1
+scene/027 "Good Friday 2" "" %000000000 1
+scene/028 "ASM" "" %000000000 1
+scene/029 "VBS" "" %000000000 1
+scene/030 "Sunday Rec" "" %000000000 1
+scene/031 "ROD" "" %000000000 1
+scene/032 "08-06-18" "" %000000000 1
+scene/033 "9-6-2017" "" %000000000 1
+scene/034 "9-17-2017" "" %000000000 1
+scene/035 "10-22-2017" "" %000000000 1
+scene/036 "Fall Ladies" "" %000000000 1
+scene/037 "XMAS2018" "" %000000000 1
+scene/038 "SOUP" "" %000000000 1
+scene/039 "December23,2018" "With Kids Choir Mics" %000000000 1
+scene/040 "Recording Mix" "" %000000000 1
+scene/041 "HTXmas" "" %000000000 1
+scene/042 "DYHWIH Rehearsal" "" %000000000 1
+scene/043 "WT 2" "" %000000000 1
+scene/044 "Sheep2022" "" %000000000 1
+scene/045 "External" "" %000000000 1
+scene/046 "DudeYouHear2019" "2019 Children Christmas Musical" %000000000 1
+scene/047 "DudeYouHearBU" "2019 Children Christmas Musical" %000000000 1
+scene/048 "SheepBU" "" %000000000 1
+scene/049 "Sunday" "" %000000000 1
+scene/050 "Sunday Streaming" "" %000000000 1
+scene/051 "Sunday" "" %000000000 1
+scene/052 "Test" "" %000000000 1
+scene/053 "SundayDrumfix" "" %100000000 1
+scene/054 "Sunday" "" %000000000 1
+scene/055 "Sunday Streaming" "" %000000000 1
+scene/056 "Sunday Stream2" "" %000000000 1
+scene/057 "Recording Easter" "" %000000000 1
+scene/058 "Sunday" "" %000000000 1
+scene/059 "Su" "" %000000000 1
+scene/060 "DEJIMBE" "" %000000000 1
+scene/061 "Kerin" "" %000000000 1
+scene/062 "Yarn" "" %000000000 1
+scene/092 "SundayAfter" "" %000000000 1
+scene/093 "nextnextSunday" "" %000000000 1
+scene/094 "Sunday1029" "" %000000000 1
+scene/095 "Sunday 20230521" "" %000000000 1
+scene/096 "Sunday bap" "" %000000000 1
+scene/097 "Sunday 20230312" "" %000000000 1
+scene/098 "Sunday 20230226" "" %000000000 1
+scene/099 "Sunday" "" %000000000 1
+snippet/000 "Rose" 1856 65523 8323072 0 1
+snippet/001 "Life" 1856 65523 16711680 0 1
+snippet/002 "O come" 1856 65535 8323072 0 1
+snippet/003 "Hark" 1856 65535 16711680 65280 1
+snippet/004 "Child" 1856 65523 8323072 0 1
+snippet/005 "He who" 1856 65523 8323072 0 1
+snippet/006 "Wexford" 1856 65535 8323072 0 1
+snippet/007 "Silent" 1856 65523 8323072 0 1
