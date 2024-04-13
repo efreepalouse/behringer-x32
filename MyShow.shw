@@ -12,10 +12,10 @@ scene/008 "Cong Meeting" "" %000000000 1
 scene/009 "WR 2020" "" %000000000 1
 scene/010 "2-28-16" "" %000000000 1
 scene/011 "April 3rd" "" %000000000 1
-scene/012 "7-10-16-Ben" "" %000000000 1
+scene/012 "GoodFriday24" "" %000000000 1
 scene/013 "Wedding" "" %000000000 1
 scene/014 "SING" "" %000000000 1
-scene/015 "Ben Lead" "" %000000000 1
+scene/015 "GoodFriday24" "" %000000000 1
 scene/016 "Peterson" "" %000000000 1
 scene/017 "RH" "" %000000000 1
 scene/018 "Ceilidg" "" %000000000 1
@@ -24,7 +24,7 @@ scene/020 "SYATP" "" %000000000 1
 scene/021 "Yarn" "" %000000000 1
 scene/022 "Friday Worship" "" %000000000 1
 scene/023 "12-25-16" "" %000000000 1
-scene/024 "Easter 2019" "" %000000000 1
+scene/024 "Easter 2024" "" %000000000 1
 scene/025 "Sunday 04-02-17" "" %000000000 1
 scene/026 "GF2019" "" %000000000 1
 scene/027 "Good Friday 2" "" %000000000 1
@@ -54,7 +54,7 @@ scene/050 "Sunday Streaming" "" %000000000 1
 scene/051 "Sunday" "" %000000000 1
 scene/052 "Test" "" %000000000 1
 scene/053 "SundayDrumfix" "" %100000000 1
-scene/054 "Sunday" "" %000000000 1
+scene/054 "SundayDrumfix" "" %000000000 1
 scene/055 "Sunday Streaming" "" %000000000 1
 scene/056 "Sunday Stream2" "" %000000000 1
 scene/057 "Recording Easter" "" %000000000 1
@@ -63,6 +63,7 @@ scene/059 "Su" "" %000000000 1
 scene/060 "DEJIMBE" "" %000000000 1
 scene/061 "Kerin" "" %000000000 1
 scene/062 "Yarn" "" %000000000 1
+scene/091 "SunMens" "" %000000000 1
 scene/092 "SundayAfter" "" %000000000 1
 scene/093 "nextnextSunday" "" %000000000 1
 scene/094 "Sunday1029" "" %000000000 1
