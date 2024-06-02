@@ -1,0 +1,18 @@
+#2.7# 100 "Choir Bus" 0 %0011000000010000 1                                                                                    
+/config "Choir" 43 MG
+/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 LShv 50.8 +0.00 2.0
+/eq/2 PEQ 532.1 +0.00 7.1
+/eq/3 PEQ 957.3 -12.0 7.4
+/eq/4 PEQ 6k39 -15.0 7.1
+/eq/5 PEQ 8k14 +0.00 8.2
+/eq/6 PEQ 10k37 +0.00 8.2
+/mix ON   0.0 ON +0 OFF   -oo
+/mix/01 ON   -oo +0 <-EQ
+/mix/02 ON   -oo
+/mix/03 ON   -oo +0 <-EQ
+/mix/04 ON   -oo
+/mix/05 ON   -oo +0 <-EQ
+/mix/06 ON   -oo

@@ -1,0 +1,31 @@
+#4.0# 97 "Bethany" 0 %0011111100110100 1                                                                                       
+/config "Bethany" 51 CY
+/delay OFF   0.3
+/preamp +0.0 OFF ON 24 213
+/gate OFF GATE -80.0 60.0 1  502  983 0
+/gate/filter OFF 3.0 990.9
+/dyn ON COMP PEAK LIN -25.0 3.0 3 5.00 20 10.0  151 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 PEQ 339.6 -6.00 1.1
+/eq/2 PEQ 778.1 -3.00 1.7
+/eq/3 PEQ 2k04 -3.00 0.8
+/eq/4 HShv 5k57 +1.75 2.0
+/mix OFF  -8.3 ON +0 ON  -5.0
+/mix/01 ON -10.0 +0 EQ-> 0
+/mix/02 ON -23.0
+/mix/03 ON -10.0 +0 EQ-> 0
+/mix/04 ON  -7.0
+/mix/05 ON  -8.5 +0 EQ-> 0
+/mix/06 ON -12.5
+/mix/07 ON -12.5 +0 PRE 0
+/mix/08 ON -29.0
+/mix/09 ON  -5.0 +0 POST 0
+/mix/10 ON  -5.0
+/mix/11 ON   -oo +0 POST 0
+/mix/12 ON   -oo
+/mix/13 ON   0.0 +0 POST 0
+/mix/14 ON   0.0
+/mix/15 ON   -oo +0 POST 0
+/mix/16 ON   -oo
+/headamp/011 +7.5 OFF

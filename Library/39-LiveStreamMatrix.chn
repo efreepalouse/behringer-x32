@@ -1,0 +1,13 @@
+#4.0# 40 "LiveStreamMatrix" 0 %0011000000110000 1                                                                              
+/config "Live Stream" 72 WH
+/preamp OFF
+/dyn ON COMP PEAK LOG -27.5 2.0 1 3.00 30 10.0  101 POST 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 LCut 30.3 +0.00 2.0
+/eq/2 LCut 45.8 +0.00 2.0
+/eq/3 LShv 124.7 -1.50 2.0
+/eq/4 PEQ 1k97 +0.00 2.0
+/eq/5 PEQ 5k02 +0.00 2.0
+/eq/6 HShv 8k14 +1.50 2.0
+/mix ON   0.0

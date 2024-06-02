@@ -1,0 +1,31 @@
+#4.0# 94 "Mid Tom" 0 %0011111100111110 1                                                                                       
+/config "MidTom" 7 GN
+/delay ON   2.0
+/preamp +0.0 OFF ON 24  82
+/gate ON GATE -25.0 30.0 0 1002 1569 0
+/gate/filter OFF 3.0 990.9
+/dyn ON COMP PEAK LIN -27.5 4.0 0 0.50 25 0.02  124 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 PEQ 120.5 +6.00 2.0
+/eq/2 PEQ 726.2 -15.0 1.7
+/eq/3 PEQ 5k20 +8.00 3.1
+/eq/4 PEQ 10k37 +5.00 4.1
+/mix ON  -4.1 OFF +0 OFF   -oo
+/mix/01 ON  -4.3 +0 PRE 0
+/mix/02 ON -19.5
+/mix/03 ON -41.0 +0 PRE 0
+/mix/04 ON   -oo
+/mix/05 ON   -oo +0 PRE 0
+/mix/06 ON -22.5
+/mix/07 ON   -oo +0 PRE 0
+/mix/08 ON   -oo
+/mix/09 OFF   -oo +0 POST 0
+/mix/10 OFF   -oo
+/mix/11 ON  +3.5 -4 POST 0
+/mix/12 ON  +3.5
+/mix/13 ON   -oo +0 POST 0
+/mix/14 ON   0.0
+/mix/15 ON   -oo +0 POST 0
+/mix/16 ON   -oo
+/headamp/020 +12.5 OFF

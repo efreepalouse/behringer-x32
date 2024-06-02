@@ -1,0 +1,18 @@
+#4.0# 39 "LiveStream Mix" 0 %0011000000110000 1                                                                                
+/config "Live Stream" 71 YE
+/dyn ON COMP PEAK LOG -22.5 2.0 1 0.00 30 10.0  101 POST 0 100 OFF
+/dyn/filter OFF 3.0 990.9
+/eq ON
+/eq/1 LShv 79.6 +0.00 2.0
+/eq/2 PEQ 158.9 +0.00 2.0
+/eq/3 PEQ 496.6 +0.00 2.0
+/eq/4 PEQ 1k97 +0.00 2.0
+/eq/5 PEQ 5k02 +0.00 2.0
+/eq/6 HShv 10k02 +0.00 2.0
+/mix ON   0.0 OFF -100 OFF   -oo
+/mix/01 ON  -3.0 -100 POST 0
+/mix/02 ON  -3.0
+/mix/03 ON   -oo -100 <-EQ 0
+/mix/04 ON   -oo
+/mix/05 ON   -oo -100 <-EQ 0
+/mix/06 ON   -oo
